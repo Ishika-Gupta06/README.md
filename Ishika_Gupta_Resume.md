@@ -1,7 +1,7 @@
 # Ishika Gupta
 🎓 Student at Sai Vidya Institute of Technology
 🔬 B.E in Computer science
-📅 4th Year, t7h Semester
+📅 4th Year, 7th Semester
 
 ## Skills
 - Programming Languages: C, Java, Python, JS, React.JS, Html, Css, BootStrap
