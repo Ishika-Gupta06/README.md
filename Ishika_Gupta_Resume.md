@@ -14,10 +14,10 @@ _Bachelor of Engineering in computer Science_
 (Expected Graduation: 2025)
 
 ## Experience
-**Internship - Indian Tech Key**  
+**Internship - Cognifyz Technologies**  
 _oct 2022_  
 
-- Collaborated with a team on the development of Websoites.
+- Collaborated with a team on the development of Websites.
 - Contributed to the creation of Web applications.
 - Gained practical experience in software development and project management.
 - Received a certification for successful completion of the internship.
