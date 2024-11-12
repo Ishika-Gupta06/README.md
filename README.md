@@ -1,5 +1,57 @@
 # Hi, I'm Ishika Gupta 👋      
 
+## :zap: Open Source Programs & Achievements
+
+<div align="center">
+  <table>
+    <tr align="center">
+      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+        <a href="">
+          <img src="https://github.com/Ishika-Gupta06/Ishika-Gupta06/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
+          <br>
+          <strong>GirlScript Summer of Code</strong>
+        </a>
+      </td>
+      <td style="padding: 15px;" valign="top" width="50%">
+        <table>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/Ishika-Gupta06/Ishika-Gupta06/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
+              <br>
+              <strong>Explorer Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/Ishika-Gupta06/Ishika-Gupta06/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
+              <br>
+              <strong>Adventurer Badge</strong>
+            </td>
+            <td style="padding: 10px;" width="100">
+              <img src="https://github.com/Ishika-Gupta06/Ishika-Gupta06/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
+              <br>
+              <strong>Trailblazer Badge</strong>
+            </td>
+          </tr>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/Ishika-Gupta06/Ishika-Gupta06/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
+              <br>
+              <strong>Summit Seeker Badge</strong>
+            </td>
+            <td style="padding: 10px;" width="100">
+              <img src="https://github.com/Ishika-Gupta06/Ishika-Gupta06/blob/main/Innovator%20Badge.png" alt="Innovator Badge" width="80" />
+              <br>
+              <strong>Innovator Badge</strong>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+
 [![An image of @ishikagupta06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishikagupta06)](https://holopin.io/@ishikagupta06)
 
 <div align=center>
