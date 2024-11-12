@@ -7,7 +7,7 @@
     <tr align="center">
       <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
         <a href="">
-          <img src="https://github.com/Ishika-Gupta06/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
+          <img src="https://github.com/Ishika-Gupta06/README.md/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
           <br>
           <strong>GirlScript Summer of Code</strong>
         </a>
@@ -16,24 +16,24 @@
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/Ishika-Gupta06/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
+              <img src="https://github.com/Ishika-Gupta06/README.md/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
               <br>
               <strong>Explorer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/Ishika-Gupta06/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
+              <img src="https://github.com/Ishika-Gupta06/README.md/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
               <br>
               <strong>Adventurer Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="https://github.com/Ishika-Gupta06/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
+              <img src="https://github.com/Ishika-Gupta06/README.md/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
               <br>
               <strong>Trailblazer Badge</strong>
             </td>
           </tr>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/Ishika-Gupta06/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
+              <img src="https://github.com/Ishika-Gupta06/README.md/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
               <br>
               <strong>Summit Seeker Badge</strong>
             </td>
