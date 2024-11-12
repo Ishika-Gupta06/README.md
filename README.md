@@ -11,6 +11,13 @@
           <br>
           <strong>GirlScript Summer of Code</strong>
         </a>
+         <span style="font-size: 14px; color: #555555;"></span>
+        <br>
+        <span style="font-size: 12px; color: #777777;">
+          PRs Merged: 22<br>
+          Total Badges: 4<br>
+          Total Score: 375<br>
+        </span>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
         <table>
